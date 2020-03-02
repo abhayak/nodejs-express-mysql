@@ -7,6 +7,9 @@ For more detail, please visit:
 
 ## Project setup
 ```
+git clone http://github.com/abhayak/nodejs-express-mysql.git
+```
+```
 npm install
 ```
 

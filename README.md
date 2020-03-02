@@ -6,8 +6,12 @@ For more detail, please visit:
 > [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
 ## Project setup
+
 ```
 git clone http://github.com/abhayak/nodejs-express-mysql.git
+```
+```
+cd nodejs-express-mysql
 ```
 ```
 npm install
